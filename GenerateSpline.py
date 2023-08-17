@@ -1,7 +1,7 @@
 import bpy
 
 # Number of vertices per control point
-vertex_group = 20
+vertex_group = 100
 
 # Get the active object (selected mesh)
 active_obj = bpy.context.active_object
